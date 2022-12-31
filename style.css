@@ -54,7 +54,8 @@ textarea{
 
 footer{
     margin: 20px;
-    padding: 5px;
+    height: 200px;
+    padding: 30px;
     background-color: rgba(127, 255, 212, 0.498);
     font-size: 18px;
     font-weight: 500;
